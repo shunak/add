@@ -1,4 +1,5 @@
 extern crate add_one;
+extern crate rand;
 
 fn main() {
     let num = 10;
